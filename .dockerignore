@@ -1,0 +1,14 @@
+node_modules
+.venv
+ml/.venv
+ml/models
+data
+samples
+reports
+paper
+logs
+.git
+*.wav
+*.flac
+*.tar.gz
+test_speaker_accuracy_old
